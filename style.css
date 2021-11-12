@@ -14,9 +14,17 @@ h2 {
 
 header {
   position: fixed;
+  background-color: lightpink;
 }
 
 nav {
+  display: inline-block;
+  width: 40px;
+}
+
+main {
+  position: relative;
+  top: 200px;
 }
 
 footer {
