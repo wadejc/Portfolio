@@ -3,18 +3,31 @@
 }
 
 body {
-  background-color: blue;
+  background-color: #ECF3FF;
 }
 
 h1 {
+  font-weight: 700;
+  font-size: 24px;
+  font-family: 'Prata', serif; 
 }
 
 h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Prata', serif;
+}
+
+p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
 }
 
 header {
   position: fixed;
-  background-color: lightpink;
+  background-color: #0D1C32;
+  color: #60B3BD;
 }
 
 nav {
